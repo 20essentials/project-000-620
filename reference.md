@@ -1,2 +1,0 @@
-- **Reference / Inspiration ⬇️**
-  - [Online tutorials Inspiration Video](https://youtu.be/j1-Ak3WWV_g?si=3Kz_wdeRR3RB3DC8)
